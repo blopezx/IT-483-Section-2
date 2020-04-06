@@ -1,0 +1,127 @@
+body{
+background-color: #FEF6EB;
+}
+
+#nav {
+list-style-type: none;
+margin: 0;
+padding: 0;
+width: 10%;
+background-color: slategrey;
+height: 100% ;
+position: fixed;
+overflow: auto;
+}
+
+.navli a{
+display: block;
+padding: 10px 15px;
+text-decoration: none;
+color: white;
+}
+#Focus{
+background-color: #96C0CE;
+color: black;
+}
+#NavHead{
+border-bottom: 2px solid black;
+background-color: #BEB9B5;
+display: block;
+padding: 10px 75px;
+text-decoration: none;
+color: black;
+font-weight: bolder;
+}
+header {
+padding: 1px 16px;
+text-align: center;
+}
+#titletex{
+color: blue;
+text-decoration: solid underline;
+font-family: Times, sans-serif;
+}
+#titlename{
+color: black;
+font-style: italic;
+font-family: monospace;
+}
+#forestpic{
+display: block;
+margin-right: auto;
+margin-left: auto;
+width: 50%;
+}
+footer{
+position: fixed;
+bottom: 0;
+margin-left: 50%;
+}
+.pagelink{
+text-decoration: none;
+background-color: #C25B56;
+text-align: center;
+color: white;
+padding: 10px 25px;
+display: inline-block;
+}
+#multipage1{
+margin-left: 25px;
+}
+#footpage1{
+margin-left: 45%;
+}
+.titleliTree{
+margin-left: 11%;
+}
+#testul li{
+width: 100px;
+list-style-type: square;
+color: floralwhite;
+white-space: nowrap;
+padding-bottom: 15px;
+padding-left: 5px
+}
+#testul{
+margin-left: 11%;
+margin-right: 20%;
+background-color: darkgreen;
+border: solid black;
+padding: 10px 25px 10px 35px;
+}
+#testol{
+margin-left: 11%;
+margin-right: 20%;
+background-color: #990000;
+border: solid;
+border-color: #cccccc;
+padding: 10px 25px 10px 35px;
+}
+#testol li{
+width: 100px;
+color: floralwhite;
+white-space: nowrap;
+padding-bottom: 15px;
+padding-left: 5px;
+}  
+table{
+text-align: left;
+margin-left: 16%;
+border-collapse: collapse;
+width: 70%;
+}
+td,th{
+border: 1px solid black;
+text-align: left;   
+}
+th, td {
+padding: 15px;
+}
+th{
+background-color: darkgreen;
+color: floralwhite;
+}
+td{
+background-color: #b5651d;
+color: floralwhite;
+}
